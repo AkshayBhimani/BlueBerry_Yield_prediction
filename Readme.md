@@ -22,7 +22,9 @@ App is deployed using Heroku [here](https://bluberry-yield-prediction.herokuapp.
 ## Setup and Install 
 
 1. Create virtual environment
-1.  pip install -r requirements.txt
+1. Install dependecies     
+    
+        pip install -r requirements.txt
 1. flask run
 
 ## Results
