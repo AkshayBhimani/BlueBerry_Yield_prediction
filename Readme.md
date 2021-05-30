@@ -25,7 +25,9 @@ App is deployed using Heroku [here](https://bluberry-yield-prediction.herokuapp.
 1. Install dependecies     
     
         pip install -r requirements.txt
-1. flask run
+1. Run
+
+            flask run
 
 ## Results
 
